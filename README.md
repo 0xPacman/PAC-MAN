@@ -1,2 +1,2 @@
-# PAC-MAN-
+# PAC-MAN
 PAC-MAN™ Arcade Machine
